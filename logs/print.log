@@ -1,0 +1,4 @@
+21:01:20.670 [TestNG-tests-2] INFO  Framework.validateTitle - Successfully validated text message
+21:01:21.285 [TestNG-tests-3] INFO  Framework.HomePage - Restricted User
+21:01:26.663 [TestNG-tests-3] INFO  Framework.HomePage - Non Restricted User
+21:01:26.947 [AsyncHttpClient-1-13] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
